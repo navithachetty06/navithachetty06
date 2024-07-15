@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Data Analytics: Enrolled in online courses to further enhance data analysis skills.Deep Learning Frameworks: Exploring TensorFlow and PyTorch for advanced AI model development.**
 
-- 👯 I’m looking to collaborate on **Natural Language Inference Using BERT: Natural Language Inference Using BERT**
+- 👯 I’m looking to collaborate on **mor applications with Machine Learning and AI**
 
 - 📫 How to reach me **navitha@uwm.edu**
 
